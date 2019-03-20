@@ -37,7 +37,7 @@ interests = [
 [[education.courses]]
   course = "MPH in Quantitative Methods"
   institution = "Harvard University"
-  year = Present
+  year = 
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
