@@ -19,7 +19,7 @@ organizations = [ { name = "Harvard T. H. Chan School of Public Health", url = "
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "gahee.oh@gmail.com"
+# email = "gahee.oh@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
