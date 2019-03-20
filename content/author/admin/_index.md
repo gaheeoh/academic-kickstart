@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Gahee (Olivia) Oh, MD"
+name = "Gahee (Olivia) Oh"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MPH student"
+role = "MPH student, MD"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,9 +23,10 @@ bio = "My research interests include distributed robotics, mobile computing and 
 
 # List (academic) interests or hobbies
 interests = [
-#   "SAS, STATA, R",
-#   "Computational Linguistics",
-#   "Information Retrieval"
+   "SAS, STATA, R",
+   "Longitudinal/Survival analysis",
+   "Causal Inference",
+   ""
 ]
 
 # Organizational groups that you belong to (for People widget)
