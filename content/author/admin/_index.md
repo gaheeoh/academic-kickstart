@@ -30,13 +30,13 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MPH in Quantitative Methods"
+  institution = "Harvard University"
+  year = Present
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
