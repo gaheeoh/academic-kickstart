@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Gahee (Olivia) Oh"
+name = "Gahee (Olivia) Oh, MD"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -13,7 +13,7 @@ role = "MPH student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Harvard T. H. Chan School of Public Health", url = "https://www.hsph.harvard.edu/" } ]
+organizations = [ { name = "Harvard T.H. Chan School of Public Health", url = "https://www.hsph.harvard.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -36,18 +36,18 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "MPH in Quantitative Methods"
-  institution = "Harvard University"
+  institution = "Harvard T.H. Chan School of Public Health"
   year = "Present"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Doctor of Medicine"
+  institution = "Yonsei University"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Chemical and Biomolecular Engineering"
+  institution = "KAIST"
+  year = 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -91,5 +91,5 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Olivia, an MPH student in Quantitative Methods at Harvard University. Currently, I am working on a practicum project studying the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Prof. Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
  
