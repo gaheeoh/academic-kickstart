@@ -23,9 +23,9 @@ bio = "My research interests include distributed robotics, mobile computing and 
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+#   "SAS, STATA, R",
+#   "Computational Linguistics",
+#   "Information Retrieval"
 ]
 
 # Organizational groups that you belong to (for People widget)
