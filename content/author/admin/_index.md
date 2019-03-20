@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MPH student in Quantitative Methods"
+role = "MPH student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -19,7 +19,7 @@ organizations = [ { name = "Harvard T. H. Chan School of Public Health", url = "
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "gahee.oh@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
@@ -53,10 +53,16 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+ [[social]]
+   icon = "envelope"
+   icon_pack = "fas"
+   link = "mailto:gahee.oh@gmail.com"  
+# For a direct email link, use "mailto:test@example.org".
+
+ [[social]]
+   icon = "linkedin"
+   icon_pack = "fab"
+   link = "https://www.linkedin.com/in/goh/"
 
 # [[social]]
 #   icon = "twitter"
@@ -83,5 +89,4 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+ 
