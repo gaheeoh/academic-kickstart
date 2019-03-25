@@ -25,8 +25,10 @@ bio = "My research interests include distributed robotics, mobile computing and 
 interests = [
    "SAS, STATA, R",
    "Longitudinal/Survival analysis",
+   "Decision analysis"
    "Causal Inference",
-#   ""
+   "Pharmacoepidemiology",
+    "Aging and frailty"
 ]
 
 # Organizational groups that you belong to (for People widget)
