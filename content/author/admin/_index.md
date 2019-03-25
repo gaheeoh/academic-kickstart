@@ -92,5 +92,5 @@ interests = [
 
 +++
 
-My name is Gahee (Olivia) Oh, an MPH student in Quantitative Methods at Harvard University. Currently, I am working on a practicum project studying the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Prof. Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
+My name is Gahee (Olivia) Oh, MD and I am an MPH student in Quantitative Methods at Harvard University. Currently, I am studying the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Professor Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
  
