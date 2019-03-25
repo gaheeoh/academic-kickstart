@@ -27,6 +27,7 @@ interests = [
    "Longitudinal/Survival analysis",
    "Decision analysis",
    "Causal Inference",
+   "Clinical Trials",
    "Pharmacoepidemiology",
     "Aging and frailty"
 
