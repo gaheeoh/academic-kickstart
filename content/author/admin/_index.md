@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Gahee (Olivia) Oh"
+name = "G. Olivia Oh"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MPH student, MD"
+role = "MD MPH"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Harvard T.H. Chan School of Public Health", url = "https://www.hsph.harvard.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
  email = ""
@@ -40,9 +40,9 @@ interests = [
  
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MPH in Quantitative Methods"
+  course = "MPH, Quantitative Methods"
   institution = "Harvard T.H. Chan School of Public Health"
-  year = "Present"
+  year = "2019"
 
 [[education.courses]]
   course = "Doctor of Medicine"
@@ -50,7 +50,7 @@ interests = [
   year = 2015
 
 [[education.courses]]
-  course = "BS in Chemical and Biomolecular Engineering"
+  course = "BS, Chemical and Biomolecular Engineering"
   institution = "KAIST"
   year = 2011
 
@@ -62,7 +62,7 @@ interests = [
  [[social]]
    icon = "envelope"
    icon_pack = "fas"
-   link = "mailto:goh@hsph.harvard.edu"  
+   link = "mailto:goliviaoh@outlook.com"  
 # For a direct email link, use "mailto:test@example.org".
 
  [[social]]
@@ -96,5 +96,5 @@ interests = [
 
 +++
 
-My name is Gahee (Olivia) Oh, a medical doctor and an MPH student in Quantitative Methods at Harvard University. Currently, I am studying the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Professor Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
+My name is G. Olivia Oh, a medical doctor and an MPH graduate in Quantitative Methods at Harvard University. Currently, I am working on the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Professor Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
  
