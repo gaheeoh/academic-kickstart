@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "G. Olivia Oh"
+name = "Gahee Oh"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -62,7 +62,7 @@ interests = [
  [[social]]
    icon = "envelope"
    icon_pack = "fas"
-   link = "mailto:goliviaoh@outlook.com"  
+   link = "mailto:gaheeoh@outlook.com"  
 # For a direct email link, use "mailto:test@example.org".
 
  [[social]]
@@ -96,5 +96,5 @@ interests = [
 
 +++
 
-My name is G. Olivia Oh, a medical doctor and an MPH graduate in Quantitative Methods at Harvard University. Currently, I am working on the long-term effect of multicomponent frailty intervention on socioeconomically vulnerable older adults, under the supervision of Professor Dae Kim at Harvard Medical School. I worked as a general practitioner in South Korea for 3+ years in diverse settings including inpatient, outpatient, and emergency care.
- 
+My name is Gahee Oh, MD, MPH, an epidemiologist, and general practitioner. I recently finished an MPH program in Quantitative Methods at Harvard T.H. Chan School of Public Health. Currently, I am working as an epidemiology consultant and provided services related to epidemiology and medicine: supporting new research design, conducting statistical analysis, and reviewing documents related to epidemiology.
+I worked as a general practitioner in South Korea for 3+ years in diverse settings, including inpatient, outpatient, and emergency care. My career goal is to use both knowledge in epidemiology and medicine to make advancement in medicine.
