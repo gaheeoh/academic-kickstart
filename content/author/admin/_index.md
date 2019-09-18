@@ -97,4 +97,4 @@ interests = [
 +++
 
 My name is Gahee Oh, MD, MPH, an epidemiologist and general practitioner. I recently finished my MPH program in Quantitative Methods at Harvard T.H. Chan School of Public Health. Currently, I am working as an epidemiology consultant and provides services related to epidemiology and medicine: supporting new research design, conducting statistical analysis, and reviewing documents related to epidemiology.
-I worked as a general practitioner in South Korea for 3+ years in diverse settings, including inpatient, outpatient, and emergency care. My career goal is to use both knowledge in epidemiology and medicine to make advancement in medicine.
+I have worked as a general practitioner in South Korea for 3+ years in diverse settings, including inpatient, outpatient, and emergency care. My career goal is to use both knowledge in epidemiology and medicine to make advancement in medicine.
