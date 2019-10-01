@@ -25,7 +25,7 @@ bio = ""
 interests = [
    "SAS, STATA, R",
    "Longitudinal/Survival analysis",
-   "Decision analysis",
+   "Decision analysis, Cost effectiveness",
    "Causal Inference",
    "Clinical Trials",
    "Pharmacoepidemiology",
@@ -77,6 +77,14 @@ interests = [
    icon_pack = "ai"
    link = "files/cv.pdf"
 
+
+ [[social]]
+   icon = "github"
+   icon_pack = "fab"
+   link = "https://github.com/gaheeoh"
+
+
+
 # [[social]]
 #   icon = "twitter"
 #   icon_pack = "fab"
@@ -87,10 +95,6 @@ interests = [
 #   icon_pack = "ai"
 #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-# [[social]]
-#   icon = "github"
-#   icon_pack = "fab"
-#   link = "https://github.com/gcushen"
 
 
 
